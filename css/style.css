@@ -229,7 +229,7 @@ body{
 .carousel-item video {
     width: 100%;
     height: auto;
-    max-height: 800px; /* Ajusta la altura máxima del video */
+    max-height: 2000px; /* Ajusta la altura máxima del video */
     object-fit: cover; /* Mantén la proporción del video y oculta las partes que se desborden */
 }
 
@@ -290,7 +290,7 @@ body{
 }
 
 .square:nth-child(1) {
-    background-image: url('../assets/img/Bolso\ multicolor.webp'); /* Imagen para el primer cuadrado */
+    background-image: url('../assets/img/rocker.jpeg'); /* Imagen para el primer cuadrado */
 }
 
 .square2:nth-child(2) {
