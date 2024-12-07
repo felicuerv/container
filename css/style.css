@@ -505,7 +505,7 @@ ul.list-unstyled {
 
 @media (max-width: 768px) {
     .carousel-item video {
-        max-height: 400px; /* Ajusta la altura máxima del video en pantallas más pequeñas */
+        max-height: 700px; /* Ajusta la altura máxima del video en pantallas más pequeñas */
     }
 }
 
@@ -529,6 +529,9 @@ ul.list-unstyled {
     }
     .square2 h1{
         font-size: 24px;
+    }
+    .carousel-item video{
+        height: 1000px;
     }
 }
 
